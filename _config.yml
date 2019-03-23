@@ -34,10 +34,10 @@ social_media:
   # linkedin: your_username
   # medium: @your_username
   # stackoverflow: your_user_id
-  # telegram: Grigory_Uskov
+  telegram: Grigory_Uskov
   # twitter: your_username
   # youtube: your_username
-  # vk: gachi_warrior
+  vk: gachi_warrior
 
 topics:
   - name: CSS
