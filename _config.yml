@@ -67,3 +67,15 @@ topics:
   - name: ES6
     web_url: https://github.com/topics/es6-javascript
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/es6/es6.png
+  
+  - name: Grunt
+    web_url: https://gruntjs.com/
+    image_url: https://gruntjs.com/img/grunt-logo.svg
+  
+  - name: Cypress
+    web_url: https://www.cypress.io/
+    image_url: https://www.cypress.io/img/logo-dark.36f3e062.png
+    
+  - name: Git
+    web_url: https://github.com/topics/git
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png
