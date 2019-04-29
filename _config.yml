@@ -74,7 +74,7 @@ topics:
   
   - name: Cypress
     web_url: https://www.cypress.io/
-    image_url: https://www.cypress.io/img/logo-dark.36f3e062.png
+    image_url: https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fstorage.googleapis.com%2Fstbstoragebucket%2Fstb-reviews%2F2017%2F12%2Fcypress_logo.jpg%3Ffit%3D400%252C400%26ssl%3D1&f=1
     
   - name: Git
     web_url: https://github.com/topics/git
